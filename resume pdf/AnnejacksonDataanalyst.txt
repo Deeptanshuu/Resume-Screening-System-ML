@@ -1,0 +1,46 @@
+Name: ANNE JACKSON
+
+Email: anne2142@gmail.com
+
+
+PERSONAL INFORMATION
+
+Email: anne2142@gmail.com  
+Address: 10 street, ambey valley 
+Nationality: UK   
+
+LANGUAGES:
+
+English  
+Spanish  
+
+
+
+SKILLS
+
+- Data Analysis & Visualization  
+- Machine Learning & Predictive Modeling  
+- SQL & Database Management  
+- Statistical Analysis  
+- Communication and Presentation Skills  
+
+---
+
+WORK EXPERIENCE
+
+- 3 YEARS
+  Data Scientist at XYZ Corporation, New York  
+  
+  - Performed complex data analyses to identify trends, patterns, and correlations to support strategic business decisions.  
+  - Developed and implemented predictive models and machine learning algorithms to address business challenges and optimize performance.  
+  - Ensured data integrity and accuracy through data cleansing, transformation, and integration from multiple sources.  
+  - Collaborated with product managers, engineers, and other stakeholders to define project goals and develop data-driven solutions.  
+  - Presented analytical findings and insights to stakeholders in clear, concise, and visually compelling reports.  
+
+---
+
+EDUCATION
+
+- 4 YEARS 
+  University of California, Berkeley  
+  Bachelor of Science in Data Science  

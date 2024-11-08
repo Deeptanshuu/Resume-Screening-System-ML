@@ -1,0 +1,61 @@
+Senior IT Specialist Position
+
+About the Role: We are seeking an experienced IT Specialist with 3+ years of experience to join our technology team. The ideal candidate will possess strong expertise in IT infrastructure, systems administration, and network management.
+
+Required Skills:
+
+Network Administration
+Systems Administration
+Cloud Computing (AWS, Azure, or Google Cloud)
+Cybersecurity and Data Protection
+Server Management
+Scripting and Automation (e.g., PowerShell, Bash)
+Virtualization (VMware, Hyper-V)
+IT Troubleshooting
+Active Directory Management
+Backup and Recovery Solutions
+Education: Bachelor’s degree in Information Technology, Computer Science, or a related field required. Relevant certifications (e.g., CompTIA Network+, CCNA, MCSA) are a plus.
+
+Experience Requirements:
+
+Minimum 3 years of experience in IT or network administration
+Proven experience in cloud computing and virtual environments
+Knowledge of cybersecurity practices and risk mitigation
+Familiarity with enterprise software and databases
+Technical Requirements:
+
+Proficiency with Windows and Linux OS
+Experience with network hardware (routers, switches, firewalls)
+Strong understanding of TCP/IP, DNS, DHCP, and VPN
+Familiarity with cloud platforms (AWS, Azure, or GCP)
+Proficiency with IT management tools and ticketing systems
+Required Tools:
+
+Network monitoring software (e.g., SolarWinds, Nagios)
+Cloud management consoles (AWS Management Console, Azure Portal)
+Virtualization tools (VMware, Hyper-V)
+Backup solutions (e.g., Veeam, Acronis)
+Active Directory and Group Policy Management
+Soft Skills:
+
+Strong problem-solving skills
+Excellent communication and interpersonal abilities
+Attention to detail and accuracy
+Team collaboration
+Project management
+Ability to explain technical concepts to non-technical users
+Responsibilities:
+
+Manage and maintain network infrastructure
+Oversee server and system administration tasks
+Ensure cybersecurity measures are in place and effective
+Provide technical support and troubleshoot IT issues
+Implement and monitor backup and recovery solutions
+Maintain documentation of IT processes and procedures
+Coordinate with vendors and external IT service providers
+Conduct IT training and support for staff as needed
+Location: Hybrid (3 days in office)
+
+Employment Type: Full-time
+
+Department: Information Technology

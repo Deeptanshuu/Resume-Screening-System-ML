@@ -1,0 +1,65 @@
+Senior Data Scientist Position
+
+About the Role:
+We are looking for an experienced Data Scientist with 3+ years of experience to join our AI/ML team. The ideal candidate will have strong expertise in machine learning, statistical analysis, and big data technologies.
+
+Required Skills:
+- Python programming
+- Machine Learning
+- Deep Learning
+- TensorFlow/PyTorch
+- SQL and NoSQL databases
+- Data visualization
+- Statistical analysis
+- Big data technologies
+- Natural Language Processing
+- Computer Vision
+- Git version control
+
+Education:
+Ph.D. or Master's degree in Computer Science, Data Science, Statistics, or related field required.
+
+Experience Requirements:
+- Minimum 3 years of experience in Data Science/ML
+- Experience with large-scale data processing
+- Track record of implementing ML models in production
+- Experience with cloud platforms (AWS/Azure/GCP)
+
+Technical Requirements:
+- Strong proficiency in Python and R
+- Experience with ML frameworks (TensorFlow, PyTorch)
+- Expertise in SQL and NoSQL databases
+- Familiarity with big data tools (Spark, Hadoop)
+- Experience with data visualization tools
+- Proficiency in version control systems
+
+Required Libraries/Tools:
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib/Seaborn
+- Jupyter Notebooks
+- Docker containers
+- MLflow or similar ML platforms
+
+Soft Skills:
+- Strong analytical thinking
+- Problem-solving abilities
+- Excellent communication skills
+- Team collaboration
+- Project management
+- Ability to explain complex concepts
+
+Responsibilities:
+- Develop and implement ML models
+- Analyze large datasets
+- Create predictive models
+- Optimize ML algorithms
+- Collaborate with engineering teams
+- Present findings to stakeholders
+- Mentor junior data scientists
+- Write technical documentation
+
+Location: Hybrid (3 days in office)
+Employment Type: Full-time
+Department: AI/ML Research

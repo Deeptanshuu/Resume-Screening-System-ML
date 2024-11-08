@@ -1,0 +1,98 @@
+Name: Michael Chen
+Email: michael.chen@email.com
+Phone: (555) 987-6543
+LinkedIn: linkedin.com/in/michaelchen
+GitHub: github.com/mchen-dev
+
+SUMMARY
+Results-driven Software Engineer with 6 years of experience in full-stack development, cloud architecture, and agile methodologies. Proven track record of delivering scalable applications and leading development teams. Strong expertise in modern web technologies and microservices architecture.
+
+TECHNICAL SKILLS
+Languages:
+- Python, JavaScript, TypeScript, Java
+- HTML5, CSS3, SQL
+- C++, Rust
+
+Frameworks & Libraries:
+- React.js, Node.js, Express.js
+- Django, Flask
+- Spring Boot
+- Redux, GraphQL
+
+Cloud & DevOps:
+- AWS (EC2, S3, Lambda, RDS)
+- Docker, Kubernetes
+- Jenkins, GitLab CI/CD
+- Terraform, Ansible
+
+Databases:
+- PostgreSQL, MongoDB
+- Redis, Elasticsearch
+- MySQL
+
+Tools & Practices:
+- Git, GitHub
+- Agile/Scrum
+- Jira, Confluence
+- Microservices Architecture
+- RESTful APIs
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Solutions | 2021-Present
+- Led team of 5 engineers in developing microservices-based e-commerce platform
+- Architected and implemented cloud-native solutions using AWS and Kubernetes
+- Reduced API response time by 40% through optimization and caching
+- Implemented CI/CD pipeline reducing deployment time by 60%
+- Mentored junior developers and conducted code reviews
+- Technologies: React, Node.js, Python, AWS, Docker, Kubernetes
+
+Software Engineer | InnovateSoft Inc. | 2019-2021
+- Developed and maintained RESTful APIs serving 1M+ daily requests
+- Implemented authentication system using OAuth2 and JWT
+- Created automated testing framework achieving 90% code coverage
+- Optimized database queries reducing load times by 50%
+- Technologies: Java, Spring Boot, PostgreSQL, Redis
+
+Junior Software Engineer | WebTech Systems | 2017-2019
+- Built responsive web applications using React and Redux
+- Developed backend services using Node.js and Express
+- Implemented real-time features using WebSocket
+- Technologies: JavaScript, React, Node.js, MongoDB
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2017
+- Focus: Distributed Systems and Cloud Computing
+- GPA: 3.8/4.0
+
+Bachelor of Science in Computer Engineering | UC Berkeley | 2015
+- Minor: Mathematics
+- GPA: 3.9/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Kubernetes Certified Administrator
+- MongoDB Certified Developer
+
+PROJECTS
+
+Cloud-Native E-commerce Platform
+- Designed microservices architecture handling 100K+ transactions daily
+- Implemented auto-scaling and load balancing using Kubernetes
+- Achieved 99.99% uptime using AWS infrastructure
+- Technologies: React, Node.js, AWS, Kubernetes
+
+Real-time Analytics Dashboard
+- Built real-time data visualization platform using React and WebSocket
+- Implemented data processing pipeline using Apache Kafka
+- Reduced data processing latency by 70%
+- Technologies: React, Python, Kafka, Elasticsearch
+
+Open Source Contributions
+- Contributed to popular open-source projects including React and Node.js
+- Created and maintained several npm packages with 10K+ downloads
+- Active participant in developer communities and meetups
+
+LANGUAGES
+- English (Native)
+- Mandarin Chinese (Fluent) 

@@ -1,0 +1,49 @@
+Senior Software Engineer Position
+
+About the Role:
+We are seeking a Senior Software Engineer with 5+ years of experience to join our dynamic team. The ideal candidate will have a strong background in full-stack development and cloud technologies.
+
+Required Skills:
+- Python programming
+- JavaScript/React
+- SQL databases
+- Git version control
+- Docker containerization
+- AWS cloud services
+- Leadership experience
+- Problem solving abilities
+- Project management experience
+- Rust programming
+- C/C++ programming
+
+Education:
+Master's degree in Computer Science or related field preferred.
+
+Experience Requirements:
+- Minimum 5 years of software development experience
+- Experience with agile development methodologies
+- Track record of leading technical projects
+
+Technical Requirements:
+- Strong proficiency in Python and JavaScript
+- Experience with React.js and Node.js
+- Expertise in SQL and database design
+- Familiarity with Docker and Kubernetes
+- AWS cloud platform experience
+- Git and version control systems
+
+Soft Skills:
+- Strong communication skills
+- Team leadership
+- Problem-solving abilities
+- Project management experience
+
+Responsibilities:
+- Lead development of new features
+- Mentor junior developers
+- Architect scalable solutions
+- Collaborate with cross-functional teams
+- Code review and quality assurance
+
+Location: Remote / Hybrid
+Employment Type: Full-time 
