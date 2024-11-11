@@ -1,0 +1,122 @@
+Name: Emily Zhang
+Email: emily.zhang@email.com
+Phone: (555) 456-7890
+LinkedIn: linkedin.com/in/emilyzhang
+Portfolio: emilyzhang.com
+
+SUMMARY
+Strategic Product Manager with 6 years of experience leading cross-functional teams in developing and launching successful B2B and B2C products. Track record of driving product vision, increasing user engagement, and delivering measurable business results. Strong background in data-driven decision making and agile methodologies.
+
+SKILLS
+Product Management:
+- Product Strategy & Roadmapping
+- User Story Mapping
+- Product Analytics
+- A/B Testing
+- Market Research
+- Competitive Analysis
+- Product Marketing
+- Growth Strategy
+
+Technical Skills:
+- SQL & Data Analysis
+- JIRA & Confluence
+- Amplitude, Mixpanel
+- Figma (Product Design)
+- Basic HTML/CSS
+- API Understanding
+- Google Analytics
+- Tableau
+
+Business Skills:
+- Revenue Modeling
+- KPI Definition
+- Strategic Planning
+- Stakeholder Management
+- Project Management
+- Business Case Development
+- Budget Management
+- ROI Analysis
+
+Methodologies:
+- Agile/Scrum
+- Lean Product Development
+- Design Thinking
+- OKR Framework
+- User-Centered Design
+
+PROFESSIONAL EXPERIENCE
+
+Senior Product Manager | TechGrowth Inc. | 2021-Present
+- Led development of B2B SaaS platform generating $15M ARR
+- Increased user retention by 45% through feature optimization
+- Managed $5M product budget and team of 15 across engineering, design, and marketing
+- Launched 3 major product initiatives resulting in 70% revenue growth
+- Implemented data-driven experimentation framework
+- Developed product strategy aligned with company OKRs
+
+Product Manager | Innovation Labs | 2019-2021
+- Owned mobile app product with 2M+ monthly active users
+- Increased user engagement by 60% through UX improvements
+- Led successful integration with 3 major third-party platforms
+- Reduced customer churn by 35% through new feature development
+- Conducted user research with 500+ customers
+- Technologies: Mobile Apps, Analytics Platforms
+
+Associate Product Manager | Digital Solutions Co. | 2017-2019
+- Managed e-commerce product features driving $10M in annual revenue
+- Implemented A/B testing program increasing conversion by 25%
+- Collaborated with UX team on user research and prototyping
+- Created detailed product specifications and user stories
+- Tools: JIRA, Amplitude, Figma
+
+EDUCATION
+Master of Business Administration (MBA) | Northwestern University, Kellogg School of Management | 2017
+- Concentration: Technology Management
+- GPA: 3.85/4.0
+
+Bachelor of Science in Information Systems | University of California, Berkeley | 2015
+- Minor: Business Administration
+- GPA: 3.8/4.0
+
+CERTIFICATIONS
+- Certified Scrum Product Owner (CSPO)
+- Product Management Certification (PMC) - Product School
+- Google Analytics Certification
+- Pragmatic Marketing Certified - Level III
+
+KEY PROJECTS
+
+Enterprise SaaS Platform Launch
+- Led end-to-end development of new enterprise product
+- Achieved $5M in revenue within first year
+- Secured 50+ enterprise clients
+- Managed cross-functional team of 20 members
+
+Mobile App Redesign
+- Spearheaded complete redesign of mobile application
+- Increased user satisfaction score from 7.2 to 9.1
+- Reduced user drop-off by 40%
+- Implemented new monetization features
+
+Growth Initiative
+- Developed and executed growth strategy
+- Increased user acquisition by 200%
+- Optimized conversion funnel
+- Reduced CAC by 45%
+
+ACHIEVEMENTS & RECOGNITION
+- "Product Manager of the Year" - TechGrowth Inc. 2022
+- Speaker at Product Management Summit 2021
+- Published article in Product Management Insider
+- Mentor at Women in Product Network
+
+LANGUAGES
+- English (Native)
+- Mandarin Chinese (Fluent)
+- French (Intermediate)
+
+VOLUNTEER WORK
+- Product Management Mentor - Women in Tech
+- Guest Lecturer - UC Berkeley Product Management Course
+- Board Member - Local Tech Meetup Group 

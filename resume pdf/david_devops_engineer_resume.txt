@@ -1,0 +1,112 @@
+Name: David Rodriguez
+Email: david.rodriguez@email.com
+Phone: (555) 345-6789
+LinkedIn: linkedin.com/in/davidrodriguez
+GitHub: github.com/drodriguez-devops
+
+SUMMARY
+Results-oriented DevOps Engineer with 7 years of experience in building and maintaining robust CI/CD pipelines, cloud infrastructure, and automated deployment systems. Proven expertise in optimizing development workflows and implementing security best practices. Strong background in cloud architecture and infrastructure as code.
+
+TECHNICAL SKILLS
+Cloud Platforms:
+- AWS (Advanced)
+- Google Cloud Platform
+- Azure
+- OpenStack
+
+Infrastructure & Automation:
+- Terraform, CloudFormation
+- Ansible, Chef, Puppet
+- Docker, Kubernetes
+- Jenkins, GitLab CI/CD
+- ArgoCD, Flux
+
+Monitoring & Logging:
+- Prometheus, Grafana
+- ELK Stack
+- Datadog
+- New Relic
+- Splunk
+
+Programming & Scripting:
+- Python, Go
+- Bash, Shell scripting
+- YAML, JSON
+- Ruby
+- PowerShell
+
+Security & Compliance:
+- AWS Security Best Practices
+- OAuth/OIDC
+- SSL/TLS
+- HashiCorp Vault
+- Security Scanning Tools
+
+PROFESSIONAL EXPERIENCE
+
+Senior DevOps Engineer | CloudTech Solutions | 2021-Present
+- Architected and maintained multi-cloud infrastructure supporting 100+ microservices
+- Reduced deployment time by 75% through CI/CD pipeline optimization
+- Implemented Infrastructure as Code practices using Terraform and Ansible
+- Achieved 99.99% uptime for production environments
+- Reduced cloud costs by 40% through resource optimization
+- Led team of 4 DevOps engineers and mentored junior members
+
+DevOps Engineer | Enterprise Systems Inc. | 2019-2021
+- Designed and implemented Kubernetes clusters for containerized applications
+- Created automated disaster recovery procedures reducing RTO by 60%
+- Implemented zero-downtime deployment strategies
+- Built comprehensive monitoring and alerting systems
+- Managed security compliance and vulnerability scanning
+- Technologies: AWS, Kubernetes, Terraform, Jenkins
+
+Systems Administrator | Tech Solutions Corp | 2016-2019
+- Managed Linux and Windows server environments
+- Implemented configuration management using Ansible
+- Automated routine maintenance tasks
+- Provided 24/7 production support
+- Technologies: Linux, Windows Server, VMware
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Texas at Austin | 2016
+- Focus: Systems Administration and Network Security
+- GPA: 3.7/4.0
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer - Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified Terraform Associate
+- Linux Foundation Certified System Administrator
+- GitLab Certified Professional
+
+NOTABLE PROJECTS
+
+Cloud Migration Initiative
+- Led migration of 50+ applications to AWS cloud
+- Implemented infrastructure as code using Terraform
+- Reduced infrastructure costs by 45%
+- Improved system reliability and scalability
+- Technologies: AWS, Terraform, Docker
+
+Automated CI/CD Pipeline
+- Developed end-to-end automated deployment pipeline
+- Reduced deployment failures by 80%
+- Implemented automated testing and security scanning
+- Technologies: Jenkins, GitLab CI, ArgoCD
+
+Monitoring & Observability Platform
+- Built comprehensive monitoring solution
+- Reduced MTTR by 65%
+- Implemented automated alerting and incident response
+- Technologies: Prometheus, Grafana, ELK Stack
+
+ACHIEVEMENTS
+- Reduced average incident response time from 45 to 10 minutes
+- Achieved 100% automation of infrastructure provisioning
+- Implemented security controls leading to SOC 2 compliance
+- Recognized as "DevOps Engineer of the Year" at CloudTech Solutions
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- Portuguese (Conversational) 

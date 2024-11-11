@@ -5,6 +5,7 @@ import ProgressBar from './ProgressBar';
 const UploadResume = ({ onAnalyze, jobFile }) => {
   const [resumeFiles, setResumeFiles] = useState([]);
   const [dragging, setDragging] = useState(false);
+  const [uploadProgress, setUploadProgress] = useState({});
 
   const validateFiles = (files) => {
     const validFiles = [];
@@ -56,8 +57,33 @@ const UploadResume = ({ onAnalyze, jobFile }) => {
   const handleFileInput = (e) => {
     const files = validateFiles(e.target.files);
     if (files.length) {
-      setResumeFiles(prev => [...prev, ...files]);
+      const newFiles = [...files];
+      setResumeFiles(prev => [...prev, ...newFiles]);
+      
+      newFiles.forEach(file => {
+        setUploadProgress(prev => ({
+          ...prev,
+          [file.name]: 0
+        }));
+        
+        simulateFileUpload(file.name);
+      });
     }
+  };
+
+  const simulateFileUpload = (fileName) => {
+    let progress = 0;
+    const interval = setInterval(() => {
+      progress += 10;
+      setUploadProgress(prev => ({
+        ...prev,
+        [fileName]: progress
+      }));
+      
+      if (progress >= 100) {
+        clearInterval(interval);
+      }
+    }, 200);
   };
 
   const removeFile = (index) => {
@@ -96,21 +122,28 @@ const UploadResume = ({ onAnalyze, jobFile }) => {
           {resumeFiles.length > 0 ? (
             <div className="space-y-4">
               {resumeFiles.map((file, index) => (
-                <div key={index} className="flex items-center justify-between bg-gray-50 p-3 rounded-lg">
-                  <div className="flex items-center space-x-2">
-                    <svg className="w-6 h-6 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                    </svg>
-                    <span className="text-sm font-medium text-gray-900">{file.name}</span>
+                <div key={index} className="space-y-2">
+                  <div className="flex items-center justify-between bg-gray-50 p-3 rounded-lg">
+                    <div className="flex items-center space-x-2">
+                      <svg className="w-6 h-6 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                      </svg>
+                      <span className="text-sm font-medium text-gray-900">{file.name}</span>
+                    </div>
+                    <button
+                      onClick={() => removeFile(index)}
+                      className="text-red-500 hover:text-red-700"
+                    >
+                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                      </svg>
+                    </button>
                   </div>
-                  <button
-                    onClick={() => removeFile(index)}
-                    className="text-red-500 hover:text-red-700"
-                  >
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                  </button>
+                  {uploadProgress[file.name] !== undefined && uploadProgress[file.name] < 100 && (
+                    <div className="px-3">
+                      <ProgressBar progress={uploadProgress[file.name]} />
+                    </div>
+                  )}
                 </div>
               ))}
               <button

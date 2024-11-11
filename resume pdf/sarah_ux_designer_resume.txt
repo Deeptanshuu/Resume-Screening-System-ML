@@ -1,0 +1,103 @@
+Name: Sarah Johnson
+Email: sarah.johnson@email.com
+Phone: (555) 234-5678
+LinkedIn: linkedin.com/in/sarahjohnson
+Portfolio: sarahjohnsondesign.com
+Dribbble: dribbble.com/sarahj
+
+SUMMARY
+Creative UX/UI Designer with 5 years of experience crafting user-centered digital experiences. Proven track record of increasing user engagement and conversion rates through data-driven design decisions. Expertise in design systems, interaction design, and user research methodologies.
+
+TECHNICAL SKILLS
+Design:
+- Figma, Adobe XD, Sketch
+- Adobe Creative Suite (Photoshop, Illustrator)
+- InVision, Principle
+- Zeplin, Abstract
+
+Research & Testing:
+- User Research
+- Usability Testing
+- A/B Testing
+- Heat Mapping
+- Google Analytics
+
+Technical:
+- HTML5, CSS3
+- Basic JavaScript
+- Responsive Design
+- Design Systems
+- Accessibility (WCAG)
+
+Tools & Methods:
+- Agile/Scrum
+- Jira, Confluence
+- Miro, FigJam
+- Version Control
+- Design Thinking
+
+PROFESSIONAL EXPERIENCE
+
+Senior UX/UI Designer | Digital Innovations Co. | 2021-Present
+- Led redesign of company's flagship product increasing user engagement by 45%
+- Created and maintained comprehensive design system used by 20+ designers
+- Conducted user research sessions and usability tests with 200+ participants
+- Mentored junior designers and facilitated design thinking workshops
+- Collaborated with development teams to ensure pixel-perfect implementation
+- Tools: Figma, Adobe Suite, InVision
+
+UX Designer | TechStart Solutions | 2019-2021
+- Designed mobile-first responsive interfaces for 10+ client projects
+- Improved conversion rates by 35% through data-driven design iterations
+- Implemented accessibility standards across all projects
+- Created user flows, wireframes, and high-fidelity prototypes
+- Tools: Sketch, Adobe XD, Principle
+
+Junior UI Designer | Creative Agency Inc. | 2018-2019
+- Designed visual elements for web and mobile applications
+- Created marketing materials and brand identity assets
+- Collaborated with UX team on user research and testing
+- Tools: Adobe Creative Suite, Sketch
+
+EDUCATION
+Master of Fine Arts in Interactive Design | Rhode Island School of Design | 2018
+- Focus: Human-Computer Interaction
+- GPA: 3.9/4.0
+
+Bachelor of Arts in Graphic Design | Parsons School of Design | 2016
+- Minor: Psychology
+- GPA: 3.8/4.0
+
+CERTIFICATIONS
+- Google UX Design Professional Certificate
+- Interaction Design Foundation UX Certification
+- WCAG 2.1 Accessibility Certification
+
+SELECTED PROJECTS
+
+E-commerce Platform Redesign
+- Led end-to-end redesign of major e-commerce platform
+- Increased mobile conversion rate by 60%
+- Reduced cart abandonment rate by 40%
+- Conducted extensive user research and A/B testing
+
+Healthcare App Design
+- Designed intuitive interface for patient management system
+- Improved task completion rate by 75%
+- Implemented accessibility features for diverse user base
+- Created comprehensive design documentation
+
+Design System Development
+- Built scalable design system used across enterprise applications
+- Reduced design-to-development handoff time by 50%
+- Created detailed documentation and component library
+- Trained team members on system usage
+
+AWARDS & RECOGNITION
+- Best Digital Experience Design - UX Awards 2022
+- Featured Designer - Dribbble Showcase 2021
+- Design Innovation Award - Creative Tech Conference 2020
+
+LANGUAGES
+- English (Native)
+- Spanish (Conversational) 
